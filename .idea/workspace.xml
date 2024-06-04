@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="567076ad-6332-4c74-a9e7-2a1864ed9016" name="Changes" comment="Library 개발중">
-      <change beforePath="$PROJECT_DIR$/MyBatis0602-yein" beforeDir="false" />
-    </list>
+    <list default="true" id="567076ad-6332-4c74-a9e7-2a1864ed9016" name="Changes" comment="Library 개발중" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,6 +149,7 @@
       <workItem from="1717464501410" duration="1714000" />
       <workItem from="1717473490795" duration="275000" />
       <workItem from="1717473785270" duration="1661000" />
+      <workItem from="1717491009457" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="Library 개발중">
       <created>1717464538682</created>
